@@ -3,7 +3,7 @@ class Solution:
     def findMedianSortedArrays(self, A, B):
         length_a = len(A)
         length_b = len(B)
-        median_index = (length_a + length_b) / 2
+        median_index = (length_a + length_b - 1) / 2
 
         a1 = 0
         a2 = length_a - 1
@@ -25,8 +25,15 @@ class Solution:
                 else:
                     a2 = a_half
 
-        print a1, a2, b1, b2
-        if (a1 + 1 >= a2):
-            return B[b1 + median_index - a1 - 1]
+        def _findMedian(a, B, index):
+            print a, B, index
+            if B[index] < a:
+                return B[index]
+            else:
+                return a
+
+        if (a1 == a2):
+            return _findMedian(A[a1], B, median_index - a1)
         else:
-            return A[a1 + median_index - b1 - 1]
+            return _findMedian(B[b1], A, median_index - b1)
+

@@ -14,9 +14,9 @@ class TestCase(unittest.TestCase):
         self.assertEqual(self.solution.findMedianSortedArrays(A, B), 6)
 
     def testSolution02(self):
-        A = (1, 3, 4, 5, 7, 9, 11)
+        A = (1, 3, 4, 5, 7, 9)
         B = (2, 6, 8, 10)
-        self.assertEqual(self.solution.findMedianSortedArrays(A, B), 6)
+        self.assertEqual(self.solution.findMedianSortedArrays(A, B), 5.5)
 
     def testSolution03(self):
         A = (1, 2, 3, 4, 5, 9)
@@ -26,6 +26,11 @@ class TestCase(unittest.TestCase):
     def testSolution04(self):
         A = (1, 2, 3, 4, 5, 6)
         B = (7, 8, 9, 10, 11)
+        self.assertEqual(self.solution.findMedianSortedArrays(A, B), 6)
+
+    def testSolution05(self):
+        A = (1, 4, 8, 9, 10, 11)
+        B = (2, 3, 5, 6, 7)
         self.assertEqual(self.solution.findMedianSortedArrays(A, B), 6)
 
 
