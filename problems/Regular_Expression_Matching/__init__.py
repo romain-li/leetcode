@@ -1,7 +1,7 @@
 TITLE = 'Regular Expression Matching'
 ADD_DATE = '2012-01-08'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/regular-expression-matching/'
+URL = 'https://oj.leetcode.com/problems/regular-expression-matching/'
 BOOK = False
 PROBLEM = r"""Implement regular expression matching with support for `'.'` and `'*'`.
 

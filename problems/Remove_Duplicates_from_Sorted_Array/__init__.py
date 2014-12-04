@@ -1,7 +1,7 @@
 TITLE = 'Remove Duplicates from Sorted Array'
 ADD_DATE = '2012-02-16'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/remove-duplicates-from-sorted-array/'
+URL = 'https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/'
 BOOK = False
 PROBLEM = r"""Given a sorted array, remove the duplicates in place such that each element
 appear only _once_ and return the new length.

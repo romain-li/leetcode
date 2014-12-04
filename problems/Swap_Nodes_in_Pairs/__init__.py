@@ -1,7 +1,7 @@
 TITLE = 'Swap Nodes in Pairs'
 ADD_DATE = '2012-02-14'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/swap-nodes-in-pairs/'
+URL = 'https://oj.leetcode.com/problems/swap-nodes-in-pairs/'
 BOOK = False
 PROBLEM = r"""Given a linked list, swap every two adjacent nodes and return its head.
 

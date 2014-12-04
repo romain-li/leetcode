@@ -1,7 +1,7 @@
 TITLE = 'Balanced Binary Tree'
 ADD_DATE = '2012-10-08'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/balanced-binary-tree/'
+URL = 'https://oj.leetcode.com/problems/balanced-binary-tree/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, determine if it is height-balanced.
 

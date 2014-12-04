@@ -1,7 +1,7 @@
 TITLE = 'Binary Tree Postorder Traversal'
 ADD_DATE = '2013-11-07'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/binary-tree-postorder-traversal/'
+URL = 'https://oj.leetcode.com/problems/binary-tree-postorder-traversal/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, return the _postorder_ traversal of its nodes' values.
 

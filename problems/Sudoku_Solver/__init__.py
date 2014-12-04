@@ -1,7 +1,7 @@
 TITLE = 'Sudoku Solver'
 ADD_DATE = '2012-03-04'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/sudoku-solver/'
+URL = 'https://oj.leetcode.com/problems/sudoku-solver/'
 BOOK = False
 PROBLEM = r"""Write a program to solve a Sudoku puzzle by filling the empty cells.
 

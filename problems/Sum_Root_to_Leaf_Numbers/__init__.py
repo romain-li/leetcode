@@ -1,7 +1,7 @@
 TITLE = 'Sum Root to Leaf Numbers'
 ADD_DATE = '2013-02-18'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/sum-root-to-leaf-numbers/'
+URL = 'https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/'
 BOOK = False
 PROBLEM = r"""Given a binary tree containing digits from `0-9` only, each root-to-leaf path
 could represent a number.

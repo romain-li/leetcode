@@ -1,7 +1,7 @@
 TITLE = 'Best Time to Buy and Sell Stock II'
 ADD_DATE = '2012-10-30'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/best-time-to-buy-and-sell-stock-ii/'
+URL = 'https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/'
 BOOK = False
 PROBLEM = r"""Say you have an array for which the _i_th element is the price of a given
 stock on day _i_.

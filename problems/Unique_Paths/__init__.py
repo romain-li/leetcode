@@ -1,7 +1,7 @@
 TITLE = 'Unique Paths'
 ADD_DATE = '2012-03-28'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/unique-paths/'
+URL = 'https://oj.leetcode.com/problems/unique-paths/'
 BOOK = False
 PROBLEM = r"""A robot is located at the top-left corner of a _m_ x _n_ grid (marked 'Start'
 in the diagram below).

@@ -1,7 +1,7 @@
 TITLE = 'Search in Rotated Sorted Array'
 ADD_DATE = '2012-03-02'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/search-in-rotated-sorted-array/'
+URL = 'https://oj.leetcode.com/problems/search-in-rotated-sorted-array/'
 BOOK = False
 PROBLEM = r"""Suppose a sorted array is rotated at some pivot unknown to you beforehand.
 

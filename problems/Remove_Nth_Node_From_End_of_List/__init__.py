@@ -1,7 +1,7 @@
 TITLE = 'Remove Nth Node From End of List'
 ADD_DATE = '2012-01-27'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/remove-nth-node-from-end-of-list/'
+URL = 'https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/'
 BOOK = False
 PROBLEM = r"""Given a linked list, remove the _n_th node from the end of list and return its
 head.

@@ -1,7 +1,7 @@
 TITLE = 'Find Minimum in Rotated Sorted Array'
 ADD_DATE = '2014-10-15'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/find-minimum-in-rotated-sorted-array/'
+URL = 'https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/'
 BOOK = False
 PROBLEM = r"""Suppose a sorted array is rotated at some pivot unknown to you beforehand.
 

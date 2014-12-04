@@ -1,7 +1,7 @@
 TITLE = 'Valid Number'
 ADD_DATE = '2012-04-02'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/valid-number/'
+URL = 'https://oj.leetcode.com/problems/valid-number/'
 BOOK = False
 PROBLEM = r"""Validate if a given string is numeric.
 

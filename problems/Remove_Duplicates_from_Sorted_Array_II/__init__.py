@@ -1,7 +1,7 @@
 TITLE = 'Remove Duplicates from Sorted Array II'
 ADD_DATE = '2012-04-19'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/remove-duplicates-from-sorted-array-ii/'
+URL = 'https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/'
 BOOK = False
 PROBLEM = r"""Follow up for "Remove Duplicates":  
 What if duplicates are allowed at most _twice_?

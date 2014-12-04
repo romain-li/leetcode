@@ -1,7 +1,7 @@
 TITLE = 'Longest Consecutive Sequence'
 ADD_DATE = '2013-02-13'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/longest-consecutive-sequence/'
+URL = 'https://oj.leetcode.com/problems/longest-consecutive-sequence/'
 BOOK = False
 PROBLEM = r"""Given an unsorted array of integers, find the length of the longest
 consecutive elements sequence.

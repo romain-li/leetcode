@@ -1,7 +1,7 @@
 TITLE = 'Two Sum'
 ADD_DATE = '2011-03-13'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/two-sum/'
+URL = 'https://oj.leetcode.com/problems/two-sum/'
 BOOK = False
 PROBLEM = r"""Given an array of integers, find two numbers such that they add up to a
 specific target number.

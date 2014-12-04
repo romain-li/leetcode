@@ -1,7 +1,7 @@
 TITLE = '3Sum'
 ADD_DATE = '2012-01-17'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/3sum/'
+URL = 'https://oj.leetcode.com/problems/3sum/'
 BOOK = False
 PROBLEM = r"""Given an array _S_ of _n_ integers, are there elements _a_, _b_, _c_ in _S_
 such that _a_ \+ _b_ \+ _c_ = 0? Find all unique triplets in the array which

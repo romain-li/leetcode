@@ -1,7 +1,7 @@
 TITLE = 'Gas Station'
 ADD_DATE = '2013-09-28'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/gas-station/'
+URL = 'https://oj.leetcode.com/problems/gas-station/'
 BOOK = False
 PROBLEM = r"""There are _N_ gas stations along a circular route, where the amount of gas at
 station _i_ is `gas[i]`.

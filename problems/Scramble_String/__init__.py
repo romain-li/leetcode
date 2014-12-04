@@ -1,7 +1,7 @@
 TITLE = 'Scramble String'
 ADD_DATE = '2012-04-30'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/scramble-string/'
+URL = 'https://oj.leetcode.com/problems/scramble-string/'
 BOOK = False
 PROBLEM = r"""Given a string _s1_, we may represent it as a binary tree by partitioning it
 to two non-empty substrings recursively.

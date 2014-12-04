@@ -1,7 +1,7 @@
 TITLE = 'Unique Paths II'
 ADD_DATE = '2012-03-28'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/unique-paths-ii/'
+URL = 'https://oj.leetcode.com/problems/unique-paths-ii/'
 BOOK = False
 PROBLEM = r"""Follow up for "Unique Paths":
 

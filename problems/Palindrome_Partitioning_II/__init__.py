@@ -1,7 +1,7 @@
 TITLE = 'Palindrome Partitioning II'
 ADD_DATE = '2013-02-28'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/palindrome-partitioning-ii/'
+URL = 'https://oj.leetcode.com/problems/palindrome-partitioning-ii/'
 BOOK = False
 PROBLEM = r"""Given a string _s_, partition _s_ such that every substring of the partition
 is a palindrome.

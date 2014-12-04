@@ -1,7 +1,7 @@
 TITLE = 'Word Break II'
 ADD_DATE = '2013-10-05'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/word-break-ii/'
+URL = 'https://oj.leetcode.com/problems/word-break-ii/'
 BOOK = False
 PROBLEM = r"""Given a string _s_ and a dictionary of words _dict_, add spaces in _s_ to
 construct a sentence where each word is a valid dictionary word.

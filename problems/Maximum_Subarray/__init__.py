@@ -1,7 +1,7 @@
 TITLE = 'Maximum Subarray'
 ADD_DATE = '2012-03-21'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/maximum-subarray/'
+URL = 'https://oj.leetcode.com/problems/maximum-subarray/'
 BOOK = False
 PROBLEM = r"""Find the contiguous subarray within an array (containing at least one number)
 which has the largest sum.

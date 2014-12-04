@@ -1,7 +1,7 @@
 TITLE = 'Letter Combinations of a Phone Number'
 ADD_DATE = '2012-01-26'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/letter-combinations-of-a-phone-number/'
+URL = 'https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/'
 BOOK = False
 PROBLEM = r"""Given a digit string, return all possible letter combinations that the number
 could represent.

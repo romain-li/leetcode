@@ -1,7 +1,7 @@
 TITLE = 'Reverse Nodes in k-Group'
 ADD_DATE = '2012-02-15'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/reverse-nodes-in-k-group/'
+URL = 'https://oj.leetcode.com/problems/reverse-nodes-in-k-group/'
 BOOK = False
 PROBLEM = r"""Given a linked list, reverse the nodes of a linked list _k_ at a time and
 return its modified list.

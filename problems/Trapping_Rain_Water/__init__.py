@@ -1,7 +1,7 @@
 TITLE = 'Trapping Rain Water'
 ADD_DATE = '2012-03-10'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/trapping-rain-water/'
+URL = 'https://oj.leetcode.com/problems/trapping-rain-water/'
 BOOK = False
 PROBLEM = r"""Given _n_ non-negative integers representing an elevation map where the width
 of each bar is 1, compute how much water it is able to trap after raining.

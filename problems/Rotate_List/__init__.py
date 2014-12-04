@@ -1,7 +1,7 @@
 TITLE = 'Rotate List'
 ADD_DATE = '2012-03-27'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/rotate-list/'
+URL = 'https://oj.leetcode.com/problems/rotate-list/'
 BOOK = False
 PROBLEM = r"""Given a list, rotate the list to the right by _k_ places, where _k_ is non-
 negative.

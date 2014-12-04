@@ -1,7 +1,7 @@
 TITLE = 'Permutations'
 ADD_DATE = '2012-03-16'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/permutations/'
+URL = 'https://oj.leetcode.com/problems/permutations/'
 BOOK = False
 PROBLEM = r"""Given a collection of numbers, return all possible permutations.
 

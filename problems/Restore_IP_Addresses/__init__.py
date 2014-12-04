@@ -1,7 +1,7 @@
 TITLE = 'Restore IP Addresses'
 ADD_DATE = '2012-08-07'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/restore-ip-addresses/'
+URL = 'https://oj.leetcode.com/problems/restore-ip-addresses/'
 BOOK = False
 PROBLEM = r"""Given a string containing only digits, restore it by returning all possible
 valid IP address combinations.

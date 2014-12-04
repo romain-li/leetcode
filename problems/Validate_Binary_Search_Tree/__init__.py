@@ -1,7 +1,7 @@
 TITLE = 'Validate Binary Search Tree'
 ADD_DATE = '2012-08-31'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/validate-binary-search-tree/'
+URL = 'https://oj.leetcode.com/problems/validate-binary-search-tree/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, determine if it is a valid binary search tree (BST).
 

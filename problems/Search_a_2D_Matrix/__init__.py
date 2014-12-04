@@ -1,7 +1,7 @@
 TITLE = 'Search a 2D Matrix'
 ADD_DATE = '2012-04-06'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/search-a-2d-matrix/'
+URL = 'https://oj.leetcode.com/problems/search-a-2d-matrix/'
 BOOK = False
 PROBLEM = r"""Write an efficient algorithm that searches for a value in an _m_ x _n_ matrix.
 This matrix has the following properties:

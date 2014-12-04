@@ -1,7 +1,7 @@
 TITLE = 'Word Ladder II'
 ADD_DATE = '2013-02-10'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/word-ladder-ii/'
+URL = 'https://oj.leetcode.com/problems/word-ladder-ii/'
 BOOK = False
 PROBLEM = r"""Given two words (_start_ and _end_), and a dictionary, find all shortest
 transformation sequence(s) from _start_ to _end_, such that:

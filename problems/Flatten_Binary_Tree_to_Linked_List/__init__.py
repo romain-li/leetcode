@@ -1,7 +1,7 @@
 TITLE = 'Flatten Binary Tree to Linked List'
 ADD_DATE = '2012-10-14'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/flatten-binary-tree-to-linked-list/'
+URL = 'https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, flatten it to a linked list in-place.
 

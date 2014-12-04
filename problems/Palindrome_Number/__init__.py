@@ -1,7 +1,7 @@
 TITLE = 'Palindrome Number'
 ADD_DATE = '2012-01-04'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/palindrome-number/'
+URL = 'https://oj.leetcode.com/problems/palindrome-number/'
 BOOK = False
 PROBLEM = r"""Determine whether an integer is a palindrome. Do this without extra space.
 

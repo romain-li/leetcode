@@ -1,7 +1,7 @@
 TITLE = 'Length of Last Word'
 ADD_DATE = '2012-03-27'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/length-of-last-word/'
+URL = 'https://oj.leetcode.com/problems/length-of-last-word/'
 BOOK = False
 PROBLEM = r"""Given a string _s_ consists of upper/lower-case alphabets and empty space
 characters `' '`, return the length of last word in the string.

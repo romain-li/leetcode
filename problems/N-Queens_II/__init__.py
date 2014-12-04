@@ -1,7 +1,7 @@
 TITLE = 'N-Queens II'
 ADD_DATE = '2012-03-20'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/n-queens-ii/'
+URL = 'https://oj.leetcode.com/problems/n-queens-ii/'
 BOOK = False
 PROBLEM = r"""Follow up for N-Queens problem.
 

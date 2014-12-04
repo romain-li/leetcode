@@ -1,7 +1,7 @@
 TITLE = 'Path Sum II'
 ADD_DATE = '2012-10-14'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/path-sum-ii/'
+URL = 'https://oj.leetcode.com/problems/path-sum-ii/'
 BOOK = False
 PROBLEM = r"""Given a binary tree and a sum, find all root-to-leaf paths where each path's
 sum equals the given sum.

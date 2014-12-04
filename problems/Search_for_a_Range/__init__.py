@@ -1,7 +1,7 @@
 TITLE = 'Search for a Range'
 ADD_DATE = '2012-03-02'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/search-for-a-range/'
+URL = 'https://oj.leetcode.com/problems/search-for-a-range/'
 BOOK = False
 PROBLEM = r"""Given a sorted array of integers, find the starting and ending position of a
 given target value.

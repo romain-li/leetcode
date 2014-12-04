@@ -1,7 +1,7 @@
 TITLE = 'Unique Binary Search Trees'
 ADD_DATE = '2012-08-27'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/unique-binary-search-trees/'
+URL = 'https://oj.leetcode.com/problems/unique-binary-search-trees/'
 BOOK = False
 PROBLEM = r"""Given _n_, how many structurally unique **BST's** (binary search trees) that
 store values 1..._n_?

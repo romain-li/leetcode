@@ -1,7 +1,7 @@
 TITLE = 'Next Permutation'
 ADD_DATE = '2012-02-25'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/next-permutation/'
+URL = 'https://oj.leetcode.com/problems/next-permutation/'
 BOOK = False
 PROBLEM = r"""Implement next permutation, which rearranges numbers into the
 lexicographically next greater permutation of numbers.

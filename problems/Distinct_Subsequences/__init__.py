@@ -1,7 +1,7 @@
 TITLE = 'Distinct Subsequences'
 ADD_DATE = '2012-10-18'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/distinct-subsequences/'
+URL = 'https://oj.leetcode.com/problems/distinct-subsequences/'
 BOOK = False
 PROBLEM = r"""Given a string **S** and a string **T**, count the number of distinct
 subsequences of **T** in **S**.

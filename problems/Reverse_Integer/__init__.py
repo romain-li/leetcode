@@ -1,7 +1,7 @@
 TITLE = 'Reverse Integer'
 ADD_DATE = '2011-12-25'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/reverse-integer/'
+URL = 'https://oj.leetcode.com/problems/reverse-integer/'
 BOOK = False
 PROBLEM = r"""Reverse digits of an integer.
 

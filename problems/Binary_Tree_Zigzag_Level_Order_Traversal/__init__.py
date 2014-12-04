@@ -1,7 +1,7 @@
 TITLE = 'Binary Tree Zigzag Level Order Traversal'
 ADD_DATE = '2012-09-28'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/binary-tree-zigzag-level-order-traversal/'
+URL = 'https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, return the _zigzag level order_ traversal of its nodes'
 values. (ie, from left to right, then right to left for the next level and

@@ -1,7 +1,7 @@
 TITLE = 'Merge Intervals'
 ADD_DATE = '2012-03-26'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/merge-intervals/'
+URL = 'https://oj.leetcode.com/problems/merge-intervals/'
 BOOK = False
 PROBLEM = r"""Given a collection of intervals, merge all overlapping intervals.
 

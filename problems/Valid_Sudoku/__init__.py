@@ -1,7 +1,7 @@
 TITLE = 'Valid Sudoku'
 ADD_DATE = '2012-03-03'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/valid-sudoku/'
+URL = 'https://oj.leetcode.com/problems/valid-sudoku/'
 BOOK = False
 PROBLEM = r"""Determine if a Sudoku is valid, according to: [Sudoku Puzzles - The
 Rules](http://sudoku.com.au/TheRules.aspx).

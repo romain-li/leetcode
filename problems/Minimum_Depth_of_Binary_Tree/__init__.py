@@ -1,7 +1,7 @@
 TITLE = 'Minimum Depth of Binary Tree'
 ADD_DATE = '2012-10-09'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/minimum-depth-of-binary-tree/'
+URL = 'https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, find its minimum depth.
 

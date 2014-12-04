@@ -1,7 +1,7 @@
 TITLE = 'Container With Most Water'
 ADD_DATE = '2012-01-08'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/container-with-most-water/'
+URL = 'https://oj.leetcode.com/problems/container-with-most-water/'
 BOOK = False
 PROBLEM = r"""Given _n_ non-negative integers _a1_, _a2_, ..., _an_, where each represents a
 point at coordinate (_i_, _ai_). _n_ vertical lines are drawn such that the

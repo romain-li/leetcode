@@ -1,7 +1,7 @@
 TITLE = 'Jump Game'
 ADD_DATE = '2012-03-24'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/jump-game/'
+URL = 'https://oj.leetcode.com/problems/jump-game/'
 BOOK = False
 PROBLEM = r"""Given an array of non-negative integers, you are initially positioned at the
 first index of the array.

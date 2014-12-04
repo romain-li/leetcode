@@ -1,7 +1,7 @@
 TITLE = 'Decode Ways'
 ADD_DATE = '2012-06-25'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/decode-ways/'
+URL = 'https://oj.leetcode.com/problems/decode-ways/'
 BOOK = False
 PROBLEM = r"""A message containing letters from `A-Z` is being encoded to numbers using the
 following mapping:

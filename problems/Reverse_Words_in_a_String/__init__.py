@@ -1,7 +1,7 @@
 TITLE = 'Reverse Words in a String'
 ADD_DATE = '2014-03-05'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/reverse-words-in-a-string/'
+URL = 'https://oj.leetcode.com/problems/reverse-words-in-a-string/'
 BOOK = False
 PROBLEM = r"""Given an input string, reverse the string word by word.
 

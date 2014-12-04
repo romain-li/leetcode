@@ -1,7 +1,7 @@
 TITLE = 'Find Minimum in Rotated Sorted Array II'
 ADD_DATE = '2014-10-20'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/find-minimum-in-rotated-sorted-array-ii/'
+URL = 'https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/'
 BOOK = False
 PROBLEM = r"""> _Follow up_ for "Find Minimum in Rotated Sorted Array":  
 What if _duplicates_ are allowed?

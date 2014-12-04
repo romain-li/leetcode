@@ -1,7 +1,7 @@
 TITLE = 'Plus One'
 ADD_DATE = '2012-04-02'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/plus-one/'
+URL = 'https://oj.leetcode.com/problems/plus-one/'
 BOOK = False
 PROBLEM = r"""Given a non-negative number represented as an array of digits, plus one to the
 number.

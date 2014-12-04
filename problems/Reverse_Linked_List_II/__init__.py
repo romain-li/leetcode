@@ -1,7 +1,7 @@
 TITLE = 'Reverse Linked List II'
 ADD_DATE = '2012-06-27'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/reverse-linked-list-ii/'
+URL = 'https://oj.leetcode.com/problems/reverse-linked-list-ii/'
 BOOK = False
 PROBLEM = r"""Reverse a linked list from position _m_ to _n_. Do it in-place and in one-
 pass.

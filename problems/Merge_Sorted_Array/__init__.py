@@ -1,7 +1,7 @@
 TITLE = 'Merge Sorted Array'
 ADD_DATE = '2012-05-20'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/merge-sorted-array/'
+URL = 'https://oj.leetcode.com/problems/merge-sorted-array/'
 BOOK = False
 PROBLEM = r"""Given two sorted integer arrays A and B, merge B into A as one sorted array.
 

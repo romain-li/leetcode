@@ -1,7 +1,7 @@
 TITLE = 'Binary Tree Inorder Traversal'
 ADD_DATE = '2012-08-27'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/binary-tree-inorder-traversal/'
+URL = 'https://oj.leetcode.com/problems/binary-tree-inorder-traversal/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, return the _inorder_ traversal of its nodes' values.
 

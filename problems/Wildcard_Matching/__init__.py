@@ -1,7 +1,7 @@
 TITLE = 'Wildcard Matching'
 ADD_DATE = '2012-03-15'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/wildcard-matching/'
+URL = 'https://oj.leetcode.com/problems/wildcard-matching/'
 BOOK = False
 PROBLEM = r"""Implement wildcard pattern matching with support for `'?'` and `'*'`.
 

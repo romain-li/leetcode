@@ -1,7 +1,7 @@
 TITLE = 'Pascal's Triangle'
 ADD_DATE = '2012-10-28'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/pascals-triangle/'
+URL = 'https://oj.leetcode.com/problems/pascals-triangle/'
 BOOK = False
 PROBLEM = r"""Given _numRows_, generate the first _numRows_ of Pascal's triangle.
 

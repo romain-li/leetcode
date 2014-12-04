@@ -1,7 +1,7 @@
 TITLE = 'Substring with Concatenation of All Words'
 ADD_DATE = '2012-02-23'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/substring-with-concatenation-of-all-words/'
+URL = 'https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/'
 BOOK = False
 PROBLEM = r"""You are given a string, **S**, and a list of words, **L**, that are all of the
 same length. Find all starting indices of substring(s) in S that is a

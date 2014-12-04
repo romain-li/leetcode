@@ -1,7 +1,7 @@
 TITLE = 'Intersection of Two Linked Lists'
 ADD_DATE = '2014-11-27'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/intersection-of-two-linked-lists/'
+URL = 'https://oj.leetcode.com/problems/intersection-of-two-linked-lists/'
 BOOK = False
 PROBLEM = r"""Write a program to find the node at which the intersection of two singly
 linked lists begins.

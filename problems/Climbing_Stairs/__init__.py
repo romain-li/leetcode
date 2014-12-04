@@ -1,7 +1,7 @@
 TITLE = 'Climbing Stairs'
 ADD_DATE = '2012-04-03'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/climbing-stairs/'
+URL = 'https://oj.leetcode.com/problems/climbing-stairs/'
 BOOK = False
 PROBLEM = r"""You are climbing a stair case. It takes _n_ steps to reach to the top.
 

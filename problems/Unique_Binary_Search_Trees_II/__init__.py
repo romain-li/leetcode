@@ -1,7 +1,7 @@
 TITLE = 'Unique Binary Search Trees II'
 ADD_DATE = '2012-08-27'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/unique-binary-search-trees-ii/'
+URL = 'https://oj.leetcode.com/problems/unique-binary-search-trees-ii/'
 BOOK = False
 PROBLEM = r"""Given _n_, generate all structurally unique **BST's** (binary search trees)
 that store values 1..._n_.

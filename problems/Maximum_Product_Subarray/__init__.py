@@ -1,7 +1,7 @@
 TITLE = 'Maximum Product Subarray'
 ADD_DATE = '2014-09-23'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/maximum-product-subarray/'
+URL = 'https://oj.leetcode.com/problems/maximum-product-subarray/'
 BOOK = False
 PROBLEM = r"""Find the contiguous subarray within an array (containing at least one number)
 which has the largest product.

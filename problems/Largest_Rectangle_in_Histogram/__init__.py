@@ -1,7 +1,7 @@
 TITLE = 'Largest Rectangle in Histogram'
 ADD_DATE = '2012-04-22'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/largest-rectangle-in-histogram/'
+URL = 'https://oj.leetcode.com/problems/largest-rectangle-in-histogram/'
 BOOK = False
 PROBLEM = r"""Given _n_ non-negative integers representing the histogram's bar height where
 the width of each bar is 1, find the area of largest rectangle in the

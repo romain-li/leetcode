@@ -1,7 +1,7 @@
 TITLE = 'Gray Code'
 ADD_DATE = '2012-05-20'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/gray-code/'
+URL = 'https://oj.leetcode.com/problems/gray-code/'
 BOOK = False
 PROBLEM = r"""The gray code is a binary numeral system where two successive values differ in
 only one bit.

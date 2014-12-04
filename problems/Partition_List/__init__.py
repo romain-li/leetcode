@@ -1,7 +1,7 @@
 TITLE = 'Partition List'
 ADD_DATE = '2012-04-30'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/partition-list/'
+URL = 'https://oj.leetcode.com/problems/partition-list/'
 BOOK = False
 PROBLEM = r"""Given a linked list and a value _x_, partition it such that all nodes less
 than _x_ come before nodes greater than or equal to _x_.

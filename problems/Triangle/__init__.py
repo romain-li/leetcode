@@ -1,7 +1,7 @@
 TITLE = 'Triangle'
 ADD_DATE = '2012-10-29'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/triangle/'
+URL = 'https://oj.leetcode.com/problems/triangle/'
 BOOK = False
 PROBLEM = r"""Given a triangle, find the minimum path sum from top to bottom. Each step you
 may move to adjacent numbers on the row below.

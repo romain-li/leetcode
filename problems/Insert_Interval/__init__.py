@@ -1,7 +1,7 @@
 TITLE = 'Insert Interval'
 ADD_DATE = '2012-03-27'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/insert-interval/'
+URL = 'https://oj.leetcode.com/problems/insert-interval/'
 BOOK = False
 PROBLEM = r"""Given a set of _non-overlapping_ intervals, insert a new interval into the
 intervals (merge if necessary).

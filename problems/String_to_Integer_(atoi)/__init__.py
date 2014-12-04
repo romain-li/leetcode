@@ -1,7 +1,7 @@
 TITLE = 'String to Integer (atoi)'
 ADD_DATE = '2011-12-26'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/string-to-integer-atoi/'
+URL = 'https://oj.leetcode.com/problems/string-to-integer-atoi/'
 BOOK = False
 PROBLEM = r"""Implement atoi to convert a string to an integer.
 

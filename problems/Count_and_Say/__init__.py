@@ -1,7 +1,7 @@
 TITLE = 'Count and Say'
 ADD_DATE = '2012-03-05'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/count-and-say/'
+URL = 'https://oj.leetcode.com/problems/count-and-say/'
 BOOK = False
 PROBLEM = r"""The count-and-say sequence is the sequence of integers beginning as follows:  
 `1, 11, 21, 1211, 111221, ...`

@@ -1,7 +1,7 @@
 TITLE = 'Surrounded Regions'
 ADD_DATE = '2013-02-21'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/surrounded-regions/'
+URL = 'https://oj.leetcode.com/problems/surrounded-regions/'
 BOOK = False
 PROBLEM = r"""Given a 2D board containing `'X'` and `'O'`, capture all regions surrounded by
 `'X'`.

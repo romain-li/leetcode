@@ -1,7 +1,7 @@
 TITLE = 'Recover Binary Search Tree'
 ADD_DATE = '2012-09-01'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/recover-binary-search-tree/'
+URL = 'https://oj.leetcode.com/problems/recover-binary-search-tree/'
 BOOK = False
 PROBLEM = r"""Two elements of a binary search tree (BST) are swapped by mistake.
 

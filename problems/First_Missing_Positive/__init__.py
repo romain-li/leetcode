@@ -1,7 +1,7 @@
 TITLE = 'First Missing Positive'
 ADD_DATE = '2012-03-08'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/first-missing-positive/'
+URL = 'https://oj.leetcode.com/problems/first-missing-positive/'
 BOOK = False
 PROBLEM = r"""Given an unsorted integer array, find the first missing positive integer.
 

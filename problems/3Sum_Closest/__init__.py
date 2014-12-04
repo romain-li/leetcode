@@ -1,7 +1,7 @@
 TITLE = '3Sum Closest'
 ADD_DATE = '2012-01-18'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/3sum-closest/'
+URL = 'https://oj.leetcode.com/problems/3sum-closest/'
 BOOK = False
 PROBLEM = r"""Given an array _S_ of _n_ integers, find three integers in _S_ such that the
 sum is closest to a given number, target. Return the sum of the three

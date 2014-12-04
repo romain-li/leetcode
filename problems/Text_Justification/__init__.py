@@ -1,7 +1,7 @@
 TITLE = 'Text Justification'
 ADD_DATE = '2012-04-03'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/text-justification/'
+URL = 'https://oj.leetcode.com/problems/text-justification/'
 BOOK = False
 PROBLEM = r"""Given an array of words and a length _L_, format the text such that each line
 has exactly _L_ characters and is fully (left and right) justified.

@@ -3,6 +3,7 @@
 import os
 import re
 import json
+import shutil
 
 from pyquery import PyQuery as pyq
 import html2text
@@ -13,12 +14,12 @@ PROBLEMS_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)), '..', 'p
 def getProblems():
     """ Get problem list from leetcode problems page """
     doc = pyq(url='https://oj.leetcode.com/problems/')
-    problems = doc('#problemList tr')
+    problems = doc('#problemList tr:gt(0)')
     for problem in problems:
         problem = pyq(problem)
         a = problem('td:eq(1) a')
         title = a.text()
-        url = 'https://oj.leetcode.com/%s' % a.attr('href')
+        url = 'https://oj.leetcode.com/%s' % a.attr('href').lstrip('/')
         add_date = problem('td:eq(2)').text()
         difficulty = problem('td:eq(4)').text()
         book = True if problem('i.fa-book') else False
@@ -42,8 +43,8 @@ def getProblem(title, url, add_date='', difficulty='', book=False):
     # Get problem content
     print 'Fetching problem: %s ...' % title
     doc = pyq(url=url)
-    html = doc('.question-content').remove('#tags').remove('.hide').html()
-    problem = html2text.html2text(html)
+    _html = doc('.question-content').remove('#tags').remove('.hide').html()
+    problem = html2text.html2text(_html)
     code = getCode(doc('form.container div.row:eq(1) > div:first').attr('ng-init'))
 
     # Write informations
@@ -57,6 +58,9 @@ def getProblem(title, url, add_date='', difficulty='', book=False):
 
     with open(os.path.join(problem_dir, 'solution.py'), 'w') as f:
         f.write(code)
+
+    shutil.copy(os.path.join(PROBLEMS_DIR, '.default', 'test.py'),
+                os.path.join(problem_dir, 'test.py'))
 
 
 def getCode(init_code, lang='python'):

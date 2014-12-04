@@ -1,7 +1,7 @@
 TITLE = 'Valid Palindrome'
 ADD_DATE = '2013-01-12'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/valid-palindrome/'
+URL = 'https://oj.leetcode.com/problems/valid-palindrome/'
 BOOK = False
 PROBLEM = r"""Given a string, determine if it is a palindrome, considering only alphanumeric
 characters and ignoring cases.

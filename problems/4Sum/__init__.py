@@ -1,7 +1,7 @@
 TITLE = '4Sum'
 ADD_DATE = '2012-01-26'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/4sum/'
+URL = 'https://oj.leetcode.com/problems/4sum/'
 BOOK = False
 PROBLEM = r"""Given an array _S_ of _n_ integers, are there elements _a_, _b_, _c_, and _d_
 in _S_ such that _a_ \+ _b_ \+ _c_ \+ _d_ = target? Find all unique

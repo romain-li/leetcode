@@ -1,7 +1,7 @@
 TITLE = 'LRU Cache'
 ADD_DATE = '2013-11-09'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/lru-cache/'
+URL = 'https://oj.leetcode.com/problems/lru-cache/'
 BOOK = False
 PROBLEM = r"""Design and implement a data structure for Least Recently Used (LRU) cache. It
 should support the following operations: `get` and `set`.

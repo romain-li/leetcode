@@ -1,7 +1,7 @@
 TITLE = 'Combination Sum II'
 ADD_DATE = '2012-03-06'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/combination-sum-ii/'
+URL = 'https://oj.leetcode.com/problems/combination-sum-ii/'
 BOOK = False
 PROBLEM = r"""Given a collection of candidate numbers (**_C_**) and a target number
 (**_T_**), find all unique combinations in **_C_** where the candidate numbers

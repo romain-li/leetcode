@@ -1,7 +1,7 @@
 TITLE = 'Subsets'
 ADD_DATE = '2012-04-18'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/subsets/'
+URL = 'https://oj.leetcode.com/problems/subsets/'
 BOOK = False
 PROBLEM = r"""Given a set of distinct integers, _S_, return all possible subsets.
 

@@ -1,7 +1,7 @@
 TITLE = 'Search Insert Position'
 ADD_DATE = '2012-03-03'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/search-insert-position/'
+URL = 'https://oj.leetcode.com/problems/search-insert-position/'
 BOOK = False
 PROBLEM = r"""Given a sorted array and a target value, return the index if the target is
 found. If not, return the index where it would be if it were inserted in

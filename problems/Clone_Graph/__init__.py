@@ -1,7 +1,7 @@
 TITLE = 'Clone Graph'
 ADD_DATE = '2013-09-24'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/clone-graph/'
+URL = 'https://oj.leetcode.com/problems/clone-graph/'
 BOOK = False
 PROBLEM = r"""Clone an undirected graph. Each node in the graph contains a `label` and a
 list of its `neighbors`.

@@ -1,7 +1,7 @@
 TITLE = 'Permutation Sequence'
 ADD_DATE = '2012-03-27'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/permutation-sequence/'
+URL = 'https://oj.leetcode.com/problems/permutation-sequence/'
 BOOK = False
 PROBLEM = r"""The set `[1,2,3,…,_n_]` contains a total of _n_! unique permutations.
 

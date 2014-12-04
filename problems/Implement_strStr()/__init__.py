@@ -1,7 +1,7 @@
 TITLE = 'Implement strStr()'
 ADD_DATE = '2012-02-18'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/implement-strstr/'
+URL = 'https://oj.leetcode.com/problems/implement-strstr/'
 BOOK = False
 PROBLEM = r"""Implement strStr().
 

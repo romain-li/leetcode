@@ -1,7 +1,7 @@
 TITLE = 'Subsets II'
 ADD_DATE = '2012-06-25'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/subsets-ii/'
+URL = 'https://oj.leetcode.com/problems/subsets-ii/'
 BOOK = False
 PROBLEM = r"""Given a collection of integers that might contain duplicates, _S_, return all
 possible subsets.

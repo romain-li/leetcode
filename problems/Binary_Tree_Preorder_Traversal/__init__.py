@@ -1,7 +1,7 @@
 TITLE = 'Binary Tree Preorder Traversal'
 ADD_DATE = '2013-11-05'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/binary-tree-preorder-traversal/'
+URL = 'https://oj.leetcode.com/problems/binary-tree-preorder-traversal/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, return the _preorder_ traversal of its nodes' values.
 

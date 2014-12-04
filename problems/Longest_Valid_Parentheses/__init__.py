@@ -1,7 +1,7 @@
 TITLE = 'Longest Valid Parentheses'
 ADD_DATE = '2012-02-29'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/longest-valid-parentheses/'
+URL = 'https://oj.leetcode.com/problems/longest-valid-parentheses/'
 BOOK = False
 PROBLEM = r"""Given a string containing just the characters `'('` and `')'`, find the length
 of the longest valid (well-formed) parentheses substring.

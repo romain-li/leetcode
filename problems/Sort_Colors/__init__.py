@@ -1,7 +1,7 @@
 TITLE = 'Sort Colors'
 ADD_DATE = '2012-04-08'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/sort-colors/'
+URL = 'https://oj.leetcode.com/problems/sort-colors/'
 BOOK = False
 PROBLEM = r"""Given an array with _n_ objects colored red, white or blue, sort them so that
 objects of the same color are adjacent, with the colors in the order red,

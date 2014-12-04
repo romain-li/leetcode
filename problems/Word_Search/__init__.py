@@ -1,7 +1,7 @@
 TITLE = 'Word Search'
 ADD_DATE = '2012-04-18'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/word-search/'
+URL = 'https://oj.leetcode.com/problems/word-search/'
 BOOK = False
 PROBLEM = r"""Given a 2D board and a word, find if the word exists in the grid.
 

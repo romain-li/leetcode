@@ -1,7 +1,7 @@
 TITLE = 'Simplify Path'
 ADD_DATE = '2012-04-03'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/simplify-path/'
+URL = 'https://oj.leetcode.com/problems/simplify-path/'
 BOOK = False
 PROBLEM = r"""Given an absolute path for a file (Unix-style), simplify it.
 

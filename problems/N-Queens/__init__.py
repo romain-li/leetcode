@@ -1,7 +1,7 @@
 TITLE = 'N-Queens'
 ADD_DATE = '2012-03-19'
 DIFFICULTY = 'Hard'
-URL = 'https://oj.leetcode.com//problems/n-queens/'
+URL = 'https://oj.leetcode.com/problems/n-queens/'
 BOOK = False
 PROBLEM = r"""The _n_-queens puzzle is the problem of placing _n_ queens on an _n_×_n_
 chessboard such that no two queens attack each other.

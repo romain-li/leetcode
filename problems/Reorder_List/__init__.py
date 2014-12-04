@@ -1,7 +1,7 @@
 TITLE = 'Reorder List'
 ADD_DATE = '2013-11-02'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/reorder-list/'
+URL = 'https://oj.leetcode.com/problems/reorder-list/'
 BOOK = False
 PROBLEM = r"""Given a singly linked list _L_: _L_0→_L_1→…→_L__n_-1→_L_n,  
 reorder it to: _L_0→_L__n_→_L_1→_L__n_-1→_L_2→_L__n_-2→…

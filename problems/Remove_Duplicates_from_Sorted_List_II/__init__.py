@@ -1,7 +1,7 @@
 TITLE = 'Remove Duplicates from Sorted List II'
 ADD_DATE = '2012-04-22'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/remove-duplicates-from-sorted-list-ii/'
+URL = 'https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/'
 BOOK = False
 PROBLEM = r"""Given a sorted linked list, delete all nodes that have duplicate numbers,
 leaving only _distinct_ numbers from the original list.

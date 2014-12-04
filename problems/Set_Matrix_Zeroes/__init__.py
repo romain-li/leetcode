@@ -1,7 +1,7 @@
 TITLE = 'Set Matrix Zeroes'
 ADD_DATE = '2012-04-05'
 DIFFICULTY = 'Medium'
-URL = 'https://oj.leetcode.com//problems/set-matrix-zeroes/'
+URL = 'https://oj.leetcode.com/problems/set-matrix-zeroes/'
 BOOK = False
 PROBLEM = r"""Given a _m_ x _n_ matrix, if an element is 0, set its entire row and column to
 0. Do it in place.

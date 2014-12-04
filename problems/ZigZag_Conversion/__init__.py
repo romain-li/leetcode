@@ -1,7 +1,7 @@
 TITLE = 'ZigZag Conversion'
 ADD_DATE = '2011-12-05'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/zigzag-conversion/'
+URL = 'https://oj.leetcode.com/problems/zigzag-conversion/'
 BOOK = False
 PROBLEM = r"""The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number
 of rows like this: (you may want to display this pattern in a fixed font for

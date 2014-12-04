@@ -1,7 +1,7 @@
 TITLE = 'Symmetric Tree'
 ADD_DATE = '2012-09-23'
 DIFFICULTY = 'Easy'
-URL = 'https://oj.leetcode.com//problems/symmetric-tree/'
+URL = 'https://oj.leetcode.com/problems/symmetric-tree/'
 BOOK = False
 PROBLEM = r"""Given a binary tree, check whether it is a mirror of itself (ie, symmetric
 around its center).
