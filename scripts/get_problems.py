@@ -39,6 +39,8 @@ def getProblem(title, url, add_date='', difficulty='', book=False):
     # Make problem dir and init the code
     os.mkdir(problem_dir)
 
+    # Get problem content
+    print 'Fetching problem: %s ...' % title
     doc = pyq(url=url)
     html = doc('.question-content').remove('#tags').remove('.hide').html()
     problem = html2text.html2text(html)
