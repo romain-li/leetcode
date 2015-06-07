@@ -1,2 +1,2 @@
-class Solution:
+class Solution(object):
     pass
