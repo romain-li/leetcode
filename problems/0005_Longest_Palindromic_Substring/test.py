@@ -4,12 +4,15 @@ from solution import Solution
 
 
 class TestCase(unittest.TestCase):
-
     def setUp(self):
         self.solution = Solution()
 
     def test_solution(self):
-        pass
+        self.assertEqual(self.solution.longestPalindrome('abcdcbabc'), 'abcdcba')
+        self.assertEqual(self.solution.longestPalindrome('ddabccbaa'), 'abccba')
+        self.assertEqual(self.solution.longestPalindrome('abcbabcba'), 'abcbabcba')
+        self.assertEqual(self.solution.longestPalindrome('z' * 1000), 'z' * 1000)
+
 
 
 def test():
