@@ -4,11 +4,10 @@ from solution import Solution
 
 
 class TestCase(unittest.TestCase):
-
     def setUp(self):
         self.solution = Solution()
 
-    def testSolution(self):
+    def test_solution(self):
         pass
 
 
